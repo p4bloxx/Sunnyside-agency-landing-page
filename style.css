@@ -360,6 +360,10 @@ body{
     .header{
         padding-block-start: 1.5rem;
     }
+
+    .box-logo{
+        cursor: pointer;
+    }
     
     .menu-icon{
         display: none;
