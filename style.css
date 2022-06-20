@@ -348,6 +348,13 @@ body{
 
 
 
+@media screen and (min-width: 24em) {
+    .info p{
+        padding-inline: 2.5rem;
+        
+    }
+}
+
 /*desktop size rules*/
 @media screen and (min-width: 62em) {
     .header{
