@@ -94,7 +94,7 @@ body{
     clip-path: polygon(0 8%, 93% 8%, 100% 0, 100% 100%, 0 100%);
     transform: scale(0);
     transform-origin: top right;
-    transition: all 0.5s;
+    transition: all 0.5s linear;
   
 }
 
